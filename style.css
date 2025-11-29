@@ -1,0 +1,5 @@
+.card-title span {
+  background-color: rgb(42, 42, 42);
+  border-radius: 39% 61% 59% 41% / 64% 47% 53% 36%;
+  padding: 8px;
+}
